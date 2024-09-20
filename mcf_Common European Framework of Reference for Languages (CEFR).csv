@@ -1,0 +1,429 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,CEFR,Common European Framework of Reference for Languages (CEFR),,,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"domain,competency,level,proficiency"
+,CEFR-D1,UNDERSTANDING,,,,,,,,,,,""
+,CEFR-D2,SPEAKING,,,,,,,,,,,""
+,CEFR-D3,WRITING,,,,,,,,,,,""
+CEFR-D1,CEFR-D1-C1,🎧 Listening,,,,,,,,,,,""
+CEFR-D1,CEFR-D1-C2,📖 Reading,,,,,,,,,,,""
+CEFR-D2,CEFR-D2-C1,🗪 Spoken interaction,,,,,,,,,,,""
+CEFR-D2,CEFR-D2-C2,💬 Spoken production,,,,,,,,,,,""
+CEFR-D3,CEFR-D3-C1,✏️ Writing,,,,,,,,,,,""
+CEFR-D1-C1,CEFR-D1-C1-L1,A1 ⭐ Beginner,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #b90002;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can recognise familiar words and very basic phrases concerning myself, my family and immediate concrete surroundings when people speak slowly and clearly.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C1,CEFR-D1-C1-L2,A2 ⭐⭐ Elementary,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cc6401;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local area, employment).</li>
+<li>I can catch the main point in short, clear, simple messages and announcements.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C1,CEFR-D1-C1-L3,B1 ⭐⭐⭐ Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cccc00;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure, etc.</li>
+<li>I can understand the main point of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and clear.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C1,CEFR-D1-C1-L4,B2 ⭐⭐⭐⭐ Upper-Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #007941;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can understand extended speech and lectures and follow even complex lines of argument provided the topic is reasonably familiar.</li>
+<li>I can understand most TV news and current affairs programmes.&nbsp;</li>
+<li>I can understand the majority of films in standard dialect.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C1,CEFR-D1-C1-L5,C1 ⭐⭐⭐⭐⭐ Advanced,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #4041fd;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can understand extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly.&nbsp;</li>
+<li>I can understand television programmes and films without too much effort.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C1,CEFR-D1-C1-L6,C2 ⭐⭐⭐⭐⭐⭐ Proficient,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #710291;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I have no difficulty in understanding any kind of spoken language, whether live or&nbsp;broadcast, even when delivered at fast&nbsp;native speed, provided I have some time&nbsp;to get familiar with the accent.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C2,CEFR-D1-C2-L1,A1 ⭐ Beginner,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #b90002;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can understand familiar names, words and very simple sentences, for example on notices and posters or in catalogues.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C2,CEFR-D1-C2-L2,A2 ⭐⭐ Elementary,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cc6401;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can read very short, simple texts.&nbsp;</li>
+<li>I can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus and time tables and I can understand short simple personal letters.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C2,CEFR-D1-C2-L3,B1 ⭐⭐⭐ Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cccc00;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can understand texts that consist mainly of high frequency everyday or job-related language.&nbsp;</li>
+<li>I can understand the description of events, feelings and wishes in personal letters.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C2,CEFR-D1-C2-L4,B2 ⭐⭐⭐⭐ Upper-Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #007941;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can read articles and reports concerned with contemporary problems in which the writers adopt particular attitudes or viewpoints.&nbsp;</li>
+<li>I can understandcontemporary literary prose.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C2,CEFR-D1-C2-L5,C1 ⭐⭐⭐⭐⭐ Advanced,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #4041fd;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can understand long and complex factual and literary texts, appreciating distinctions of style.</li>
+<li>I can understand specialised articles and longer technical instructions, even when they do not relate to my field.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D1-C2,CEFR-D1-C2-L6,C2 ⭐⭐⭐⭐⭐⭐ Proficient,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #710291;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C1,CEFR-D2-C1-L1,A1 ⭐ Beginner,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #b90002;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate of speech and help me formulate what I'm trying to say.&nbsp;</li>
+<li>I can ask and answer simple questions in areas of immediate need or on very familiar topics.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C1,CEFR-D2-C1-L2,A2 ⭐⭐ Elementary,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cc6401;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities.&nbsp;</li>
+<li>I can handle very short social exchanges, even though I can't usually understand enough to keep the conversation going myself.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C1,CEFR-D2-C1-L3,B1 ⭐⭐⭐ Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cccc00;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can deal with most situations likely to arise whilst travelling in an area where the language is spoken.&nbsp;</li>
+<li>I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events).</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C1,CEFR-D2-C1-L4,B2 ⭐⭐⭐⭐ Upper-Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #007941;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible.&nbsp;</li>
+<li>I can take an active part in discussion in familiar contexts, accounting for and sustaining my views.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C1,CEFR-D2-C1-L5,C1 ⭐⭐⭐⭐⭐ Advanced,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #4041fd;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can express myself fluently and spontaneously without much obvious searching for expressions.&nbsp;</li>
+<li>I can use language flexibly and effectively for social and professional purposes.&nbsp;</li>
+<li>I can formulate ideas and opinions with precision and relate my contribution skilfully to those of other speakers.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C1,CEFR-D2-C1-L6,C2 ⭐⭐⭐⭐⭐⭐ Proficient,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #710291;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms.</li>
+<li>I can express myself fluently and convey finer shades of meaning precisely.&nbsp;</li>
+<li>If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C2,CEFR-D2-C2-L1,A1 ⭐ Beginner,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #b90002;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can use simple phrases and sentences to describe where I live and people I know.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C2,CEFR-D2-C2-L2,A2 ⭐⭐ Elementary,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cc6401;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can use a series of phrases and sentences to describe in simple terms my family and other people, living conditions, my educational background and my present or most recent job.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C2,CEFR-D2-C2-L3,B1 ⭐⭐⭐ Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cccc00;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions.</li>
+<li>I can briefly give reasons and explanations for opinions and plans.</li>
+<li>I can narrate a story or relate the plot of a book or film and describe my reactions.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C2,CEFR-D2-C2-L4,B2 ⭐⭐⭐⭐ Upper-Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #007941;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can present clear, detailed descriptions on a wide range of subjects related to my field of interest.&nbsp;</li>
+<li>I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C2,CEFR-D2-C2-L5,C1 ⭐⭐⭐⭐⭐ Advanced,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #4041fd;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D2-C2,CEFR-D2-C2-L6,C2 ⭐⭐⭐⭐⭐⭐ Proficient,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #710291;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can present a clear, smoothly-flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D3-C1,CEFR-D3-C1-L1,A1 ⭐ Beginner,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #b90002;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can write a short, simple postcard, for example sending holiday greetings.</li>
+<li>I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D3-C1,CEFR-D3-C1-L2,A2 ⭐⭐ Elementary,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cc6401;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can write short, simple notes and messages relating to matters in areas of immediate needs.</li>
+<li>I can write a very simple personal letter, for example thanking someone for something.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D3-C1,CEFR-D3-C1-L3,B1 ⭐⭐⭐ Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cccc00;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can write simple connected text on topics which are familiar or of personal interest.&nbsp;</li>
+<li>I can write personal letters describing experiences and impressions.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D3-C1,CEFR-D3-C1-L4,B2 ⭐⭐⭐⭐ Upper-Intermediate,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #007941;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can write clear, detailed text on a wide range of subjects related to my interests.</li>
+<li>I can write an essay or report, passing on information or giving reasons in support of or against a particular point of view.</li>
+<li>I can write letters highlighting the personal significance of events and experiences.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D3-C1,CEFR-D3-C1-L5,C1 ⭐⭐⭐⭐⭐ Advanced,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #4041fd;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can express myself in clear, well structured text, expressing points of view at some length.&nbsp;</li>
+<li>I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues.&nbsp;</li>
+<li>I can select style appropriate to the reader in mind.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+CEFR-D3-C1,CEFR-D3-C1-L6,C2 ⭐⭐⭐⭐⭐⭐ Proficient,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #710291;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<ul>
+<li>I can write clear, smoothly-flowing text in an appropriate style.&nbsp;</li>
+<li>I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points.&nbsp;</li>
+<li>I can write summaries and reviews of professional or literary works.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
